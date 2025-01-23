@@ -1,7 +1,7 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 <!--
-**LoafBurger/LoafBurger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**thuang323/thuang323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center">
+    <p>
+        <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LoafBurger&show_icons=true&rank_icon=github&count_private=true&theme=dark" />&nbsp;&nbsp;
+        <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thuang323&layout=compact&theme=dark" />&nbsp;&nbsp;
+    </p>
+</div>
