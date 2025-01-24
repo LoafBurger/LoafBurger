@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LoafBurger&label=Profile%20views&color=0e75b6&style=flat" alt="LoafBurger" /> </p>
 
 <div align="center">
     <p>
