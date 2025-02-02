@@ -34,4 +34,6 @@
   <a href="https://cdnlogo.com/logo/tailwindcss_42966.html"><img src="https://static.cdnlogo.com/logos/t/58/tailwindcss.svg" alt="tailwindcss" width="40" height="40"></a>
   <a href="https://cdnlogo.com/logo/netlify_42943.html"><img src="https://static.cdnlogo.com/logos/n/75/netlify.svg" alt="netlify" width="40" height="40"></a>
   <a href="https://cdnlogo.com/logo/mongodb-icon_41043.html"><img src="https://static.cdnlogo.com/logos/m/30/mongodb-icon.svg" alt="MongoDB" width="40" height="40"></a>
+  <a href="https://cdnlogo.com/logo/godot_94380.html"><img src="https://static.cdnlogo.com/logos/g/12/godot.svg" alt="godot" width="40" height="40"></a>
+  <a href="https://cdnlogo.com/logo/figma_39644.html"><img src="https://static.cdnlogo.com/logos/f/43/figma.svg" alt="figma" width="40" height="40"></a>
 </p>
