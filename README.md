@@ -22,5 +22,5 @@
 
 <p align="left"> 
   <a href="https://cdnlogo.com/logo/next-js_21574.html"><img src="https://static.cdnlogo.com/logos/n/80/next-js.svg" alt="next.js" width="40" height="40"></a>
-  
+  <a href="https://cdnlogo.com/logo/django_40656.html"><img src="https://static.cdnlogo.com/logos/d/3/django.svg" alt="django" width="40" height="40"></a>
 </p>
