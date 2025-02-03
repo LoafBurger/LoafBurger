@@ -28,7 +28,7 @@
   <a href="https://cdnlogo.com/logo/neovim_10630.html"><img src="https://static.cdnlogo.com/logos/n/34/neovim.svg" alt="neovim" width="40" height="40"></a>
   <a href="https://cdnlogo.com/logo/docker_39450.html"><img src="https://static.cdnlogo.com/logos/d/41/docker.svg" alt="docker" width="40" height="40"></a>
   <a href="https://cdnlogo.com/logo/java_40460.html"><img src="https://static.cdnlogo.com/logos/j/2/java.svg" alt="java" width="40" height="40"></a>
-  <a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"         height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://cdnlogo.com/logo/mysql_9525.html"><img src="https://static.cdnlogo.com/logos/m/10/mysql.svg" alt="mysql" width="40" height="40"></a>
   <a href="https://cdnlogo.com/logo/firebase_39969.html"><img src="https://static.cdnlogo.com/logos/f/48/firebase.svg" alt="firebase" width="40" height="40"></a>
   <a href="https://cdnlogo.com/logo/tailwindcss_42966.html"><img src="https://static.cdnlogo.com/logos/t/58/tailwindcss.svg" alt="tailwindcss" width="40" height="40"></a>
