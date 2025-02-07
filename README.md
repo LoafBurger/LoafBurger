@@ -37,6 +37,6 @@
   <a href="https://cdnlogo.com/logo/godot_94380.html"><img src="https://static.cdnlogo.com/logos/g/12/godot.svg" alt="godot" width="40" height="40"></a>
   <a href="https://cdnlogo.com/logo/figma_39644.html"><img src="https://static.cdnlogo.com/logos/f/43/figma.svg" alt="figma" width="40" height="40"></a>
   <a href="https://cdnlogo.com/logo/lua_18016.html"><img src="https://static.cdnlogo.com/logos/l/50/lua.svg" alt="lua" width="40" height="40"></a>
-  <a href="https://cdnlogo.com/logo/javascript_18196.html"><img src="https://static.cdnlogo.com/logos/j/44/javascript.svg" alt="js" width="40"> height="40"</a>
+  <a href="https://cdnlogo.com/logo/javascript_18196.html"><img src="https://static.cdnlogo.com/logos/j/44/javascript.svg" alt="js" width="40" height="40"></a>
   <a href="https://cdnlogo.com/logo/three-js_134117.html"><img src="https://static.cdnlogo.com/logos/t/92/three-js.svg" alt="threejs" width="40" height="40"></a>
 </p>
