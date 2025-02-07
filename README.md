@@ -21,7 +21,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-  <a href="https://cdnlogo.com/logo/next-js_21574.html"><img src="https://static.cdnlogo.com/logos/n/80/next-js.svg" alt="next.js" width="40" height="40" style="fill: #ffffff;"></a>
+  <a href="https://cdnlogo.com/logo/next-js_21574.html"><img src="https://static.cdnlogo.com/logos/n/80/next-js.svg" alt="next.js" width="40" height="40"></a>
   <a href="https://cdnlogo.com/logo/django_40656.html"><img src="https://static.cdnlogo.com/logos/d/3/django.svg" alt="django" width="40" height="40"></a>
   <a href="https://cdnlogo.com/logo/react_22568.html"><img src="https://static.cdnlogo.com/logos/r/63/react.svg" alt="react" width="40" height="40"></a>
   <a href="https://cdnlogo.com/logo/python_358.html"><img src="https://static.cdnlogo.com/logos/p/3/python.svg" alt="python" width="40" height="40"></a>
