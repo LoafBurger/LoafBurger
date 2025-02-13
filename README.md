@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=LoafBurger&style=for-the-badge&color=000000">
 
-- 🔭 I’m currently working on **RateMyClub** and **Tree.js**
+- 🔭 I’m currently working on **RateMyClub**
   
 - 📫 How to reach me **cheung64@purdue.edu**
 
