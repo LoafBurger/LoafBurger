@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=LoafBurger&style=for-the-badge&color=000000">
 
-- 🔭 I’m currently working on **ROC**
+- 🔭 I’m currently working on honing my skills in **Full Stack Development**
   
 - 📫 How to reach me **cheung64@purdue.edu**
 
