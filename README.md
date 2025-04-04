@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [**RateOurClub**](https://rateourclub.com/)
   
-- 📫 How to reach me **cheung64@purdue.edu**
+- 📫 How to reach me: **cheung64@purdue.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
