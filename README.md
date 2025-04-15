@@ -3,7 +3,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=LoafBurger&style=for-the-badge&color=000000">
 
-- 🔭 I’m currently working on [**RateOurClub**](https://rateourclub.com/)
+- 💻 Incoming Consultant + SWE @ [**AlixPartners**](https://www.alixpartners.com/)
+
+- 🔭 Founder and currently building [**RateOurClub**](https://rateourclub.com/)
   
 - 📫 How to reach me: **cheung64@purdue.edu**
 
