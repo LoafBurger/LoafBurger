@@ -5,7 +5,7 @@
 
 - 💻 Incoming Consultant + SWE @ [**AlixPartners**](https://www.alixpartners.com/)
 
-- 🔭 Founder and currently building [**RateOurClub**](https://rateourclub.com/)
+- 🛠️ Founder and currently building [**RateOurClub**](https://rateourclub.com/) - also available at [rateourclub.com](https://rateourclub.com/)
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
