@@ -4,7 +4,6 @@
 <img src="https://komarev.com/ghpvc/?username=LoafBurger&style=for-the-badge&color=000000">
 
 - 🛠️ Founder and currently building [**RateOurClub**](https://rateourclub.com/) - also available at [rateourclub.com](https://rateourclub.com/)
-- 📫 How to reach me **[cheung64@purdue.edu](mailto:cheung64@purdue.edu)**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
